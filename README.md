@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **PrajwalHarish30/PrajwalHarish30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img alt="You just got rick-rolled, on text :D" src="professional-image.gif" width="100%">
